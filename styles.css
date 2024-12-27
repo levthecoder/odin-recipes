@@ -1,0 +1,17 @@
+h1 {
+    font-family: sans-serif;
+    background-color: grey;
+    text-align: center;
+}
+
+body {
+    font-family: Arial;
+    font-weight: 20px;
+}
+ul {
+    font-size: 20px;
+    font-weight: lighter;
+}
+a:visited {
+    color: red;
+}
